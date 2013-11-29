@@ -1,6 +1,6 @@
 # homebrew-devel
 
-My own home-brew taps
+My own [home-brew taps](https://github.com/mxcl/homebrew/wiki/brew-tap).
 
 ## How do I install these formulae?
 
