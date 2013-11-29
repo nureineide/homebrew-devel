@@ -1,6 +1,6 @@
 # homebrew-devel
 
-My own [home-brew taps](https://github.com/mxcl/homebrew/wiki/brew-tap).
+My own [home-brew tap](https://github.com/mxcl/homebrew/wiki/brew-tap).
 
 ## How do I install these formulae?
 
@@ -12,7 +12,7 @@ You can also install via URL:
 
 `brew install https://raw.github.com/nureineide/homebrew-devel/master/<formula>.rb`
 
-## Taps
+## Formulae
 
 ### mutt-patched
 
