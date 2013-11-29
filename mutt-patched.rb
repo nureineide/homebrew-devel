@@ -23,6 +23,7 @@ class MuttPatched < Formula
   option "with-pgp-verbose-mime-patch", "Apply PGP verbose mime patch"
   option "with-pgp-multiple-crypt-hook-patch", "Apply PGP multiple-crypti-hook patch"
   option "with-confirm-attachment-patch", "Apply confirm attachment patch"
+  option "with-sidebar-patch", "Apply sidebar patch"
 
   depends_on 'tokyo-cabinet'
   depends_on 's-lang' => :optional
