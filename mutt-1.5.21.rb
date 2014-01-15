@@ -1,6 +1,6 @@
 require 'formula'
 
-class Mutt < Formula
+class Mutt1521 < Formula
   homepage 'http://www.mutt.org/'
   url 'ftp://ftp.mutt.org/mutt/devel/mutt-1.5.21.tar.gz'
   sha1 'a8475f2618ce5d5d33bff85c0affdf21ab1d76b9'
