@@ -3,6 +3,7 @@ require 'formula'
 class Mutt1521 < Formula
   homepage 'http://www.mutt.org/'
   url 'ftp://ftp.mutt.org/mutt/devel/mutt-1.5.21.tar.gz'
+  mirror 'http://prdownloads.sourceforge.net/mutt/mutt-dev/mutt-1.5.21.tar.gz?download'
   sha1 'a8475f2618ce5d5d33bff85c0affdf21ab1d76b9'
 
   head do
